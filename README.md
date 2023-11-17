@@ -1,4 +1,7 @@
 # Manhattan
+This is our group's, Manhattan, project website! 
+
+We researched a lot about the 
 ## Links to all neighborhoods
 [Kips Bay](https://alifrahman2023.github.io/HC11/)
 
