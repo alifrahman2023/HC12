@@ -1,6 +1,9 @@
 # Manhattan
 This is our group's project website! 
 
+## Group Members
+Alif Rahman, Amaya Mangual, Jana Mohamed, Rachel Houng, and Aryan Lahar
+
 ## Introduction
 This website explores basic information about the clean heat systems of Greenwich Willage, Kips Bay, Hell's Kitchen, the Upper East Side, and Soho! Each website includes basic demographics, a brief description of the NYS Clean Heat program, the data emissions of Manhattan, and an analysis of the data.
 
